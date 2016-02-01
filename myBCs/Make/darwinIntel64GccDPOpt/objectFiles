@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dirichletFvPatch.o\
+$(OBJECTS_DIR)/dirichletFvPatchFields.o\
+$(OBJECTS_DIR)/dirichletPolyPatch.o\
+$(OBJECTS_DIR)/neumannFvPatchFields.o\
+$(OBJECTS_DIR)/neumannPolyPatch.o

@@ -1,0 +1,66 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2.1.1                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : 2.1.1-221db2718bbb
+Exec   : dn
+Date   : Dec 12 2015
+Time   : 23:45:00
+Host   : "Olabanjis-MacBook-Pro.local"
+PID    : 36912
+Case   : /Users/oyshonib/mpi/dn/case
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading field U
+
+Reading transportProperties
+
+
+SIMPLE: no convergence criteria found. Calculations will run for 10 steps.
+
+
+Calculating scalar transport
+
+Time = 1
+
+DICPCG:  Solving for Ux, Initial residual = 1, Final residual = 1.40424e-14, No Iterations 1
+Time = 2
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 3
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 4
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 5
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 6
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 7
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 8
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 9
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+Time = 10
+
+DICPCG:  Solving for Ux, Initial residual = 1.43588e-14, Final residual = 1.43588e-14, No Iterations 0
+End
+

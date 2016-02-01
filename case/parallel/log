@@ -1,0 +1,1042 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM Extend Project: Open source CFD        |
+|  \\    /   O peration     | Version:  1.6-ext                               |
+|   \\  /    A nd           | Web:      www.extend-project.de                 |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : 1.6-ext-064a6e9f332e
+Exec   : dn -parallel
+Date   : Dec 28 2015
+Time   : 20:30:48
+Host   : Olabanjis-MacBook-Pro.local
+PID    : 85127
+Case   : /Volumes/Research/oyshonib/OpenFOAM/oyshonib-1.6-ext/run/dn/case/parallel
+nProcs : 2
+Slaves : 
+1
+(
+Olabanjis-MacBook-Pro.local.85128
+)
+
+Pstream initialized with:
+    floatTransfer     : 0
+    nProcsSimpleSum   : 0
+    commsType         : blocking
+SigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading field U
+
+Reading transportProperties
+
+
+Calculating scalar transport
+
+Time = 1
+
+DICPCG:  Solving for Ux, Initial residual = 1, Final residual = 1.0812e-14, No Iterations 1
+[0] first 1((2.20882 -0 -0))
+Time = 2
+
+DICPCG:  Solving for Ux, Initial residual = 0.444517, Final residual = 3.68268e-15, No Iterations 1
+[0] first 1((-1.06648 -0 -0))
+Time = 3
+
+DICPCG:  Solving for Ux, Initial residual = 0.236455, Final residual = 2.42633e-15, No Iterations 1
+[0] first 1((-4.36454 -0 -0))
+Time = 4
+
+DICPCG:  Solving for Ux, Initial residual = 0.152271, Final residual = 3.00296e-15, No Iterations 1
+[0] first 1((-2.73599 -0 -0))
+Time = 5
+
+DICPCG:  Solving for Ux, Initial residual = 0.767252, Final residual = 5.54234e-15, No Iterations 1
+[0] first 1((0.883682 -0 -0))
+Time = 6
+
+DICPCG:  Solving for Ux, Initial residual = 0.0119377, Final residual = 8.76774e-15, No Iterations 1
+[0] first 1((0.86586 -0 -0))
+Time = 7
+
+DICPCG:  Solving for Ux, Initial residual = 0.32502, Final residual = 1.3203e-15, No Iterations 1
+[0] first 1((-2.39898 -0 -0))
+Time = 8
+
+DICPCG:  Solving for Ux, Initial residual = 0.121704, Final residual = 2.74708e-15, No Iterations 1
+[0] first 1((-3.68887 -0 -0))
+Time = 9
+
+DICPCG:  Solving for Ux, Initial residual = 0.337719, Final residual = 2.56462e-15, No Iterations 1
+[0] first 1((-1.26648 -0 -0))
+Time = 10
+
+DICPCG:  Solving for Ux, Initial residual = 0.663604, Final residual = 7.42998e-15, No Iterations 1
+[0] first 1((0.863386 -0 -0))
+Time = 11
+
+DICPCG:  Solving for Ux, Initial residual = 0.278271, Final residual = 4.13164e-15, No Iterations 1
+[0] first 1((-0.464824 -0 -0))
+Time = 12
+
+DICPCG:  Solving for Ux, Initial residual = 0.239389, Final residual = 1.71282e-15, No Iterations 1
+[0] first 1((-2.91298 -0 -0))
+Time = 13
+
+DICPCG:  Solving for Ux, Initial residual = 0.0246529, Final residual = 2.06729e-15, No Iterations 1
+[0] first 1((-2.69686 -0 -0))
+Time = 14
+
+DICPCG:  Solving for Ux, Initial residual = 0.448699, Final residual = 1.81721e-15, No Iterations 1
+[0] first 1((-0.407065 -0 -0))
+Time = 15
+
+DICPCG:  Solving for Ux, Initial residual = 0.352018, Final residual = 9.2989e-15, No Iterations 1
+[0] first 1((0.314341 -0 -0))
+Time = 16
+
+DICPCG:  Solving for Ux, Initial residual = 0.26643, Final residual = 1.63834e-15, No Iterations 1
+[0] first 1((-1.45791 -0 -0))
+Time = 17
+
+DICPCG:  Solving for Ux, Initial residual = 0.152351, Final residual = 2.07946e-15, No Iterations 1
+[0] first 1((-2.81608 -0 -0))
+Time = 18
+
+DICPCG:  Solving for Ux, Initial residual = 0.144893, Final residual = 1.94931e-15, No Iterations 1
+[0] first 1((-1.76432 -0 -0))
+Time = 19
+
+DICPCG:  Solving for Ux, Initial residual = 0.424593, Final residual = 3.49173e-15, No Iterations 1
+[0] first 1((-0.121263 -0 -0))
+Time = 20
+
+DICPCG:  Solving for Ux, Initial residual = 0.0800585, Final residual = 4.29626e-15, No Iterations 1
+[0] first 1((-0.410627 -0 -0))
+Time = 21
+
+DICPCG:  Solving for Ux, Initial residual = 0.210518, Final residual = 8.22507e-16, No Iterations 1
+[0] first 1((-2.00512 -0 -0))
+Time = 22
+
+DICPCG:  Solving for Ux, Initial residual = 0.0499031, Final residual = 1.60894e-15, No Iterations 1
+[0] first 1((-2.38249 -0 -0))
+Time = 23
+
+DICPCG:  Solving for Ux, Initial residual = 0.232091, Final residual = 1.23529e-15, No Iterations 1
+[0] first 1((-1.0984 -0 -0))
+Time = 24
+
+DICPCG:  Solving for Ux, Initial residual = 0.257814, Final residual = 3.76022e-15, No Iterations 1
+[0] first 1((-0.245123 -0 -0))
+Time = 25
+
+DICPCG:  Solving for Ux, Initial residual = 0.166604, Final residual = 1.69391e-15, No Iterations 1
+[0] first 1((-1.0595 -0 -0))
+Time = 26
+
+DICPCG:  Solving for Ux, Initial residual = 0.148744, Final residual = 1.25081e-15, No Iterations 1
+[0] first 1((-2.1532 -0 -0))
+Time = 27
+
+DICPCG:  Solving for Ux, Initial residual = 0.0440964, Final residual = 1.33021e-15, No Iterations 1
+[0] first 1((-1.85774 -0 -0))
+Time = 28
+
+DICPCG:  Solving for Ux, Initial residual = 0.239652, Final residual = 1.31758e-15, No Iterations 1
+[0] first 1((-0.755224 -0 -0))
+Time = 29
+
+DICPCG:  Solving for Ux, Initial residual = 0.0527195, Final residual = 3.42408e-15, No Iterations 1
+[0] first 1((-0.580135 -0 -0))
+Time = 30
+
+DICPCG:  Solving for Ux, Initial residual = 0.156266, Final residual = 8.26905e-16, No Iterations 1
+[0] first 1((-1.50236 -0 -0))
+Time = 31
+
+DICPCG:  Solving for Ux, Initial residual = 0.0808569, Final residual = 1.14457e-15, No Iterations 1
+[0] first 1((-2.02883 -0 -0))
+Time = 32
+
+DICPCG:  Solving for Ux, Initial residual = 0.107158, Final residual = 8.91354e-16, No Iterations 1
+[0] first 1((-1.40942 -0 -0))
+Time = 33
+
+DICPCG:  Solving for Ux, Initial residual = 0.177269, Final residual = 1.94424e-15, No Iterations 1
+[0] first 1((-0.687827 -0 -0))
+Time = 34
+
+DICPCG:  Solving for Ux, Initial residual = 0.0642017, Final residual = 1.56172e-15, No Iterations 1
+[0] first 1((-0.956664 -0 -0))
+Time = 35
+
+DICPCG:  Solving for Ux, Initial residual = 0.122981, Final residual = 8.32806e-16, No Iterations 1
+[0] first 1((-1.71363 -0 -0))
+Time = 36
+
+DICPCG:  Solving for Ux, Initial residual = 0.010396, Final residual = 1.58858e-15, No Iterations 1
+[0] first 1((-1.77446 -0 -0))
+Time = 37
+
+DICPCG:  Solving for Ux, Initial residual = 0.132332, Final residual = 5.53374e-16, No Iterations 1
+[0] first 1((-1.11753 -0 -0))
+Time = 38
+
+DICPCG:  Solving for Ux, Initial residual = 0.0821403, Final residual = 1.43171e-15, No Iterations 1
+[0] first 1((-0.800003 -0 -0))
+Time = 39
+
+DICPCG:  Solving for Ux, Initial residual = 0.093615, Final residual = 7.38273e-16, No Iterations 1
+[0] first 1((-1.26424 -0 -0))
+Time = 40
+
+DICPCG:  Solving for Ux, Initial residual = 0.0799394, Final residual = 8.15641e-16, No Iterations 1
+[0] first 1((-1.7357 -0 -0))
+Time = 41
+
+DICPCG:  Solving for Ux, Initial residual = 0.0406048, Final residual = 7.40653e-16, No Iterations 1
+[0] first 1((-1.50648 -0 -0))
+Time = 42
+
+DICPCG:  Solving for Ux, Initial residual = 0.115262, Final residual = 7.90678e-16, No Iterations 1
+[0] first 1((-0.990468 -0 -0))
+Time = 43
+
+DICPCG:  Solving for Ux, Initial residual = 0.000668635, Final residual = 9.03591e-16, No Iterations 1
+[0] first 1((-0.990367 -0 -0))
+Time = 44
+
+DICPCG:  Solving for Ux, Initial residual = 0.0866782, Final residual = 3.43666e-16, No Iterations 1
+[0] first 1((-1.45473 -0 -0))
+Time = 45
+
+DICPCG:  Solving for Ux, Initial residual = 0.0330816, Final residual = 8.07138e-16, No Iterations 1
+[0] first 1((-1.64057 -0 -0))
+Time = 46
+
+DICPCG:  Solving for Ux, Initial residual = 0.0663867, Final residual = 4.60746e-16, No Iterations 1
+[0] first 1((-1.29698 -0 -0))
+Time = 47
+
+DICPCG:  Solving for Ux, Initial residual = 0.0716317, Final residual = 7.72778e-16, No Iterations 1
+[0] first 1((-0.992285 -0 -0))
+Time = 48
+
+DICPCG:  Solving for Ux, Initial residual = 0.04168, Final residual = 6.5189e-16, No Iterations 1
+[0] first 1((-1.17964 -0 -0))
+Time = 49
+
+DICPCG:  Solving for Ux, Initial residual = 0.0649388, Final residual = 5.009e-16, No Iterations 1
+[0] first 1((-1.52881 -0 -0))
+Time = 50
+
+DICPCG:  Solving for Ux, Initial residual = 0.0056008, Final residual = 1.01593e-15, No Iterations 1
+[0] first 1((-1.49985 -0 -0))
+Time = 51
+
+DICPCG:  Solving for Ux, Initial residual = 0.0678738, Final residual = 2.45788e-16, No Iterations 1
+[0] first 1((-1.17402 -0 -0))
+Time = 52
+
+DICPCG:  Solving for Ux, Initial residual = 0.0248214, Final residual = 9.04748e-16, No Iterations 1
+[0] first 1((-1.06975 -0 -0))
+Time = 53
+
+DICPCG:  Solving for Ux, Initial residual = 0.0516629, Final residual = 3.27743e-16, No Iterations 1
+[0] first 1((-1.32129 -0 -0))
+Time = 54
+
+DICPCG:  Solving for Ux, Initial residual = 0.0368975, Final residual = 4.85906e-16, No Iterations 1
+[0] first 1((-1.51575 -0 -0))
+Time = 55
+
+DICPCG:  Solving for Ux, Initial residual = 0.0287427, Final residual = 3.37902e-16, No Iterations 1
+[0] first 1((-1.36715 -0 -0))
+Time = 56
+
+DICPCG:  Solving for Ux, Initial residual = 0.0512795, Final residual = 3.88193e-16, No Iterations 1
+[0] first 1((-1.13269 -0 -0))
+Time = 57
+
+DICPCG:  Solving for Ux, Initial residual = 0.00928444, Final residual = 4.64171e-16, No Iterations 1
+[0] first 1((-1.17265 -0 -0))
+Time = 58
+
+DICPCG:  Solving for Ux, Initial residual = 0.045335, Final residual = 2.04665e-16, No Iterations 1
+[0] first 1((-1.39964 -0 -0))
+Time = 59
+
+DICPCG:  Solving for Ux, Initial residual = 0.0106383, Final residual = 3.8622e-16, No Iterations 1
+[0] first 1((-1.45448 -0 -0))
+Time = 60
+
+DICPCG:  Solving for Ux, Initial residual = 0.0368762, Final residual = 2.16883e-16, No Iterations 1
+[0] first 1((-1.27212 -0 -0))
+Time = 61
+
+DICPCG:  Solving for Ux, Initial residual = 0.0272277, Final residual = 4.30854e-16, No Iterations 1
+[0] first 1((-1.14982 -0 -0))
+Time = 62
+
+DICPCG:  Solving for Ux, Initial residual = 0.0250058, Final residual = 2.57269e-16, No Iterations 1
+[0] first 1((-1.26503 -0 -0))
+Time = 63
+
+DICPCG:  Solving for Ux, Initial residual = 0.0309786, Final residual = 2.88353e-16, No Iterations 1
+[0] first 1((-1.42118 -0 -0))
+Time = 64
+
+DICPCG:  Solving for Ux, Initial residual = 0.00818192, Final residual = 3.13722e-16, No Iterations 1
+[0] first 1((-1.37995 -0 -0))
+Time = 65
+
+DICPCG:  Solving for Ux, Initial residual = 0.032897, Final residual = 1.94835e-16, No Iterations 1
+[0] first 1((-1.22293 -0 -0))
+Time = 66
+
+DICPCG:  Solving for Ux, Initial residual = 0.00579661, Final residual = 4.78101e-16, No Iterations 1
+[0] first 1((-1.19722 -0 -0))
+Time = 67
+
+DICPCG:  Solving for Ux, Initial residual = 0.0272954, Final residual = 1.42959e-16, No Iterations 1
+[0] first 1((-1.32826 -0 -0))
+Time = 68
+
+DICPCG:  Solving for Ux, Initial residual = 0.0149771, Final residual = 2.28795e-16, No Iterations 1
+[0] first 1((-1.40381 -0 -0))
+Time = 69
+
+DICPCG:  Solving for Ux, Initial residual = 0.0176563, Final residual = 1.58608e-16, No Iterations 1
+[0] first 1((-1.3161 -0 -0))
+Time = 70
+
+DICPCG:  Solving for Ux, Initial residual = 0.0220473, Final residual = 2.46881e-16, No Iterations 1
+[0] first 1((-1.21302 -0 -0))
+Time = 71
+
+DICPCG:  Solving for Ux, Initial residual = 0.00819117, Final residual = 1.97299e-16, No Iterations 1
+[0] first 1((-1.25073 -0 -0))
+Time = 72
+
+DICPCG:  Solving for Ux, Initial residual = 0.0219613, Final residual = 1.50609e-16, No Iterations 1
+[0] first 1((-1.35858 -0 -0))
+Time = 73
+
+DICPCG:  Solving for Ux, Initial residual = 0.00193044, Final residual = 2.55175e-16, No Iterations 1
+[0] first 1((-1.36779 -0 -0))
+Time = 74
+
+DICPCG:  Solving for Ux, Initial residual = 0.0191867, Final residual = 7.96059e-17, No Iterations 1
+[0] first 1((-1.2744 -0 -0))
+Time = 75
+
+DICPCG:  Solving for Ux, Initial residual = 0.00984173, Final residual = 1.61788e-16, No Iterations 1
+[0] first 1((-1.22876 -0 -0))
+Time = 76
+
+DICPCG:  Solving for Ux, Initial residual = 0.0138414, Final residual = 1.14645e-16, No Iterations 1
+[0] first 1((-1.29455 -0 -0))
+Time = 77
+
+DICPCG:  Solving for Ux, Initial residual = 0.0136243, Final residual = 1.38179e-16, No Iterations 1
+[0] first 1((-1.36195 -0 -0))
+Time = 78
+
+DICPCG:  Solving for Ux, Initial residual = 0.00655289, Final residual = 1.31583e-16, No Iterations 1
+[0] first 1((-1.32969 -0 -0))
+Time = 79
+
+DICPCG:  Solving for Ux, Initial residual = 0.015374, Final residual = 1.02944e-16, No Iterations 1
+[0] first 1((-1.25613 -0 -0))
+Time = 80
+
+DICPCG:  Solving for Ux, Initial residual = 0.000160592, Final residual = 1.14655e-16, No Iterations 1
+[0] first 1((-1.25574 -0 -0))
+Time = 81
+
+DICPCG:  Solving for Ux, Initial residual = 0.0136139, Final residual = 4.97661e-17, No Iterations 1
+[0] first 1((-1.32179 -0 -0))
+Time = 82
+
+DICPCG:  Solving for Ux, Initial residual = 0.00545111, Final residual = 9.67319e-17, No Iterations 1
+[0] first 1((-1.34856 -0 -0))
+Time = 83
+
+DICPCG:  Solving for Ux, Initial residual = 0.0099705, Final residual = 7.09e-17, No Iterations 1
+[0] first 1((-1.29982 -0 -0))
+Time = 84
+
+DICPCG:  Solving for Ux, Initial residual = 0.00919791, Final residual = 1.04588e-16, No Iterations 1
+[0] first 1((-1.25624 -0 -0))
+Time = 85
+
+DICPCG:  Solving for Ux, Initial residual = 0.00558101, Final residual = 1.02575e-16, No Iterations 1
+[0] first 1((-1.28266 -0 -0))
+Time = 86
+
+DICPCG:  Solving for Ux, Initial residual = 0.0101899, Final residual = 7.04984e-17, No Iterations 1
+[0] first 1((-1.33246 -0 -0))
+Time = 87
+
+DICPCG:  Solving for Ux, Initial residual = 0.000832206, Final residual = 8.10129e-17, No Iterations 1
+[0] first 1((-1.3286 -0 -0))
+Time = 88
+
+DICPCG:  Solving for Ux, Initial residual = 0.00957136, Final residual = 3.95676e-17, No Iterations 1
+[0] first 1((-1.28223 -0 -0))
+Time = 89
+
+DICPCG:  Solving for Ux, Initial residual = 0.00320796, Final residual = 1.22958e-16, No Iterations 1
+[0] first 1((-1.26716 -0 -0))
+Time = 90
+
+DICPCG:  Solving for Ux, Initial residual = 0.00741417, Final residual = 5.07031e-17, No Iterations 1
+[0] first 1((-1.30286 -0 -0))
+Time = 91
+
+DICPCG:  Solving for Ux, Initial residual = 0.00569877, Final residual = 7.49376e-17, No Iterations 1
+[0] first 1((-1.33071 -0 -0))
+Time = 92
+
+DICPCG:  Solving for Ux, Initial residual = 0.00431025, Final residual = 5.54818e-17, No Iterations 1
+[0] first 1((-1.30971 -0 -0))
+Time = 93
+
+DICPCG:  Solving for Ux, Initial residual = 0.00696965, Final residual = 5.42885e-17, No Iterations 1
+[0] first 1((-1.27626 -0 -0))
+Time = 94
+
+DICPCG:  Solving for Ux, Initial residual = 0.00118518, Final residual = 5.90648e-17, No Iterations 1
+[0] first 1((-1.28177 -0 -0))
+Time = 95
+
+DICPCG:  Solving for Ux, Initial residual = 0.0066514, Final residual = 3.23654e-17, No Iterations 1
+[0] first 1((-1.31408 -0 -0))
+Time = 96
+
+DICPCG:  Solving for Ux, Initial residual = 0.00165469, Final residual = 8.29386e-17, No Iterations 1
+[0] first 1((-1.32205 -0 -0))
+Time = 97
+
+DICPCG:  Solving for Ux, Initial residual = 0.0053289, Final residual = 2.70019e-17, No Iterations 1
+[0] first 1((-1.29615 -0 -0))
+Time = 98
+
+DICPCG:  Solving for Ux, Initial residual = 0.00367366, Final residual = 5.80046e-17, No Iterations 1
+[0] first 1((-1.27862 -0 -0))
+Time = 99
+
+DICPCG:  Solving for Ux, Initial residual = 0.00339851, Final residual = 3.77102e-17, No Iterations 1
+[0] first 1((-1.29492 -0 -0))
+Time = 100
+
+DICPCG:  Solving for Ux, Initial residual = 0.0045831, Final residual = 3.83998e-17, No Iterations 1
+[0] first 1((-1.31721 -0 -0))
+Time = 101
+
+DICPCG:  Solving for Ux, Initial residual = 0.00119794, Final residual = 4.03306e-17, No Iterations 1
+[0] first 1((-1.31146 -0 -0))
+Time = 102
+
+DICPCG:  Solving for Ux, Initial residual = 0.0046241, Final residual = 2.77946e-17, No Iterations 1
+[0] first 1((-1.2891 -0 -0))
+Time = 103
+
+DICPCG:  Solving for Ux, Initial residual = 0.000806715, Final residual = 4.05004e-17, No Iterations 1
+[0] first 1((-1.28533 -0 -0))
+Time = 104
+
+DICPCG:  Solving for Ux, Initial residual = 0.00384618, Final residual = 1.82841e-17, No Iterations 1
+[0] first 1((-1.30395 -0 -0))
+Time = 105
+
+DICPCG:  Solving for Ux, Initial residual = 0.00223776, Final residual = 3.92602e-17, No Iterations 1
+[0] first 1((-1.31479 -0 -0))
+Time = 106
+
+DICPCG:  Solving for Ux, Initial residual = 0.00256036, Final residual = 2.28337e-17, No Iterations 1
+[0] first 1((-1.30237 -0 -0))
+Time = 107
+
+DICPCG:  Solving for Ux, Initial residual = 0.00306127, Final residual = 3.24343e-17, No Iterations 1
+[0] first 1((-1.28764 -0 -0))
+Time = 108
+
+DICPCG:  Solving for Ux, Initial residual = 0.00111106, Final residual = 3.47916e-17, No Iterations 1
+[0] first 1((-1.29293 -0 -0))
+Time = 109
+
+DICPCG:  Solving for Ux, Initial residual = 0.0031662, Final residual = 1.72455e-17, No Iterations 1
+[0] first 1((-1.3083 -0 -0))
+Time = 110
+
+DICPCG:  Solving for Ux, Initial residual = 0.000300057, Final residual = 2.42401e-17, No Iterations 1
+[0] first 1((-1.30969 -0 -0))
+Time = 111
+
+DICPCG:  Solving for Ux, Initial residual = 0.00273581, Final residual = 1.28661e-17, No Iterations 1
+[0] first 1((-1.29641 -0 -0))
+Time = 112
+
+DICPCG:  Solving for Ux, Initial residual = 0.0013721, Final residual = 2.5207e-17, No Iterations 1
+[0] first 1((-1.28985 -0 -0))
+Time = 113
+
+DICPCG:  Solving for Ux, Initial residual = 0.00193307, Final residual = 1.85123e-17, No Iterations 1
+[0] first 1((-1.29918 -0 -0))
+Time = 114
+
+DICPCG:  Solving for Ux, Initial residual = 0.0019879, Final residual = 1.95462e-17, No Iterations 1
+[0] first 1((-1.30881 -0 -0))
+Time = 115
+
+DICPCG:  Solving for Ux, Initial residual = 0.000941922, Final residual = 1.8119e-17, No Iterations 1
+[0] first 1((-1.30427 -0 -0))
+Time = 116
+
+DICPCG:  Solving for Ux, Initial residual = 0.00216908, Final residual = 1.36332e-17, No Iterations 1
+[0] first 1((-1.29379 -0 -0))
+Time = 117
+
+DICPCG:  Solving for Ux, Initial residual = 3.34112e-05, Final residual = 1.92188e-17, No Iterations 1
+[0] first 1((-1.29368 -0 -0))
+Time = 118
+
+DICPCG:  Solving for Ux, Initial residual = 0.00193592, Final residual = 6.88241e-18, No Iterations 1
+[0] first 1((-1.30307 -0 -0))
+Time = 119
+
+DICPCG:  Solving for Ux, Initial residual = 0.000801401, Final residual = 1.6548e-17, No Iterations 1
+[0] first 1((-1.30693 -0 -0))
+Time = 120
+
+DICPCG:  Solving for Ux, Initial residual = 0.00142625, Final residual = 1.02089e-17, No Iterations 1
+[0] first 1((-1.30001 -0 -0))
+Time = 121
+
+DICPCG:  Solving for Ux, Initial residual = 0.00129523, Final residual = 1.48697e-17, No Iterations 1
+[0] first 1((-1.29378 -0 -0))
+Time = 122
+
+DICPCG:  Solving for Ux, Initial residual = 0.000776205, Final residual = 1.19838e-17, No Iterations 1
+[0] first 1((-1.29751 -0 -0))
+Time = 123
+
+DICPCG:  Solving for Ux, Initial residual = 0.00146533, Final residual = 1.09825e-17, No Iterations 1
+[0] first 1((-1.30461 -0 -0))
+Time = 124
+
+DICPCG:  Solving for Ux, Initial residual = 0.0001128, Final residual = 1.4934e-17, No Iterations 1
+[0] first 1((-1.30409 -0 -0))
+Time = 125
+
+DICPCG:  Solving for Ux, Initial residual = 0.00136024, Final residual = 6.07245e-18, No Iterations 1
+[0] first 1((-1.2975 -0 -0))
+Time = 126
+
+DICPCG:  Solving for Ux, Initial residual = 0.000456499, Final residual = 1.4528e-17, No Iterations 1
+[0] first 1((-1.29532 -0 -0))
+Time = 127
+
+DICPCG:  Solving for Ux, Initial residual = 0.00104718, Final residual = 6.60325e-18, No Iterations 1
+[0] first 1((-1.30039 -0 -0))
+Time = 128
+
+DICPCG:  Solving for Ux, Initial residual = 0.000825035, Final residual = 9.81002e-18, No Iterations 1
+[0] first 1((-1.30437 -0 -0))
+Time = 129
+
+DICPCG:  Solving for Ux, Initial residual = 0.000614329, Final residual = 8.13411e-18, No Iterations 1
+[0] first 1((-1.30141 -0 -0))
+Time = 130
+
+DICPCG:  Solving for Ux, Initial residual = 0.000987815, Final residual = 7.31225e-18, No Iterations 1
+[0] first 1((-1.29663 -0 -0))
+Time = 131
+
+DICPCG:  Solving for Ux, Initial residual = 0.000161754, Final residual = 9.9531e-18, No Iterations 1
+[0] first 1((-1.29739 -0 -0))
+Time = 132
+
+DICPCG:  Solving for Ux, Initial residual = 0.000948452, Final residual = 5.45135e-18, No Iterations 1
+[0] first 1((-1.30199 -0 -0))
+Time = 133
+
+DICPCG:  Solving for Ux, Initial residual = 0.000242604, Final residual = 9.63497e-18, No Iterations 1
+[0] first 1((-1.30315 -0 -0))
+Time = 134
+
+DICPCG:  Solving for Ux, Initial residual = 0.000758688, Final residual = 4.78987e-18, No Iterations 1
+[0] first 1((-1.29947 -0 -0))
+Time = 135
+
+DICPCG:  Solving for Ux, Initial residual = 0.000522081, Final residual = 8.18132e-18, No Iterations 1
+[0] first 1((-1.29696 -0 -0))
+Time = 136
+
+DICPCG:  Solving for Ux, Initial residual = 0.000478046, Final residual = 5.32672e-18, No Iterations 1
+[0] first 1((-1.29927 -0 -0))
+Time = 137
+
+DICPCG:  Solving for Ux, Initial residual = 0.000657643, Final residual = 5.27715e-18, No Iterations 1
+[0] first 1((-1.30245 -0 -0))
+Time = 138
+
+DICPCG:  Solving for Ux, Initial residual = 0.000168259, Final residual = 5.42524e-18, No Iterations 1
+[0] first 1((-1.30165 -0 -0))
+Time = 139
+
+DICPCG:  Solving for Ux, Initial residual = 0.000657335, Final residual = 3.63116e-18, No Iterations 1
+[0] first 1((-1.29846 -0 -0))
+Time = 140
+
+DICPCG:  Solving for Ux, Initial residual = 0.000117285, Final residual = 5.83292e-18, No Iterations 1
+[0] first 1((-1.29791 -0 -0))
+Time = 141
+
+DICPCG:  Solving for Ux, Initial residual = 0.000545822, Final residual = 2.54266e-18, No Iterations 1
+[0] first 1((-1.30056 -0 -0))
+Time = 142
+
+DICPCG:  Solving for Ux, Initial residual = 0.000322943, Final residual = 5.07431e-18, No Iterations 1
+[0] first 1((-1.30211 -0 -0))
+Time = 143
+
+DICPCG:  Solving for Ux, Initial residual = 0.000363803, Final residual = 2.80645e-18, No Iterations 1
+[0] first 1((-1.30035 -0 -0))
+Time = 144
+
+DICPCG:  Solving for Ux, Initial residual = 0.00043554, Final residual = 4.23505e-18, No Iterations 1
+[0] first 1((-1.29825 -0 -0))
+Time = 145
+
+DICPCG:  Solving for Ux, Initial residual = 0.00015508, Final residual = 3.94137e-18, No Iterations 1
+[0] first 1((-1.29899 -0 -0))
+Time = 146
+
+DICPCG:  Solving for Ux, Initial residual = 0.000451858, Final residual = 2.51379e-18, No Iterations 1
+[0] first 1((-1.30118 -0 -0))
+Time = 147
+
+DICPCG:  Solving for Ux, Initial residual = 4.51936e-05, Final residual = 4.50805e-18, No Iterations 1
+[0] first 1((-1.30139 -0 -0))
+Time = 148
+
+DICPCG:  Solving for Ux, Initial residual = 0.00038909, Final residual = 1.64792e-18, No Iterations 1
+[0] first 1((-1.2995 -0 -0))
+Time = 149
+
+DICPCG:  Solving for Ux, Initial residual = 0.000196321, Final residual = 3.25041e-18, No Iterations 1
+[0] first 1((-1.29856 -0 -0))
+Time = 150
+
+DICPCG:  Solving for Ux, Initial residual = 0.000273387, Final residual = 2.33502e-18, No Iterations 1
+[0] first 1((-1.29988 -0 -0))
+Time = 151
+
+DICPCG:  Solving for Ux, Initial residual = 0.000284966, Final residual = 2.99848e-18, No Iterations 1
+[0] first 1((-1.30126 -0 -0))
+Time = 152
+
+DICPCG:  Solving for Ux, Initial residual = 0.000132941, Final residual = 2.51101e-18, No Iterations 1
+[0] first 1((-1.30062 -0 -0))
+Time = 153
+
+DICPCG:  Solving for Ux, Initial residual = 0.000308735, Final residual = 2.01803e-18, No Iterations 1
+[0] first 1((-1.29912 -0 -0))
+Time = 154
+
+DICPCG:  Solving for Ux, Initial residual = 6.31413e-06, Final residual = 2.55823e-18, No Iterations 1
+[0] first 1((-1.2991 -0 -0))
+Time = 155
+
+DICPCG:  Solving for Ux, Initial residual = 0.000275323, Final residual = 1.11264e-18, No Iterations 1
+[0] first 1((-1.30044 -0 -0))
+Time = 156
+
+DICPCG:  Solving for Ux, Initial residual = 0.000115731, Final residual = 2.61859e-18, No Iterations 1
+[0] first 1((-1.30099 -0 -0))
+Time = 157
+
+DICPCG:  Solving for Ux, Initial residual = 0.000202532, Final residual = 1.42284e-18, No Iterations 1
+[0] first 1((-1.30001 -0 -0))
+Time = 158
+
+DICPCG:  Solving for Ux, Initial residual = 0.000184849, Final residual = 2.03902e-18, No Iterations 1
+[0] first 1((-1.29912 -0 -0))
+Time = 159
+
+DICPCG:  Solving for Ux, Initial residual = 0.000109248, Final residual = 1.56002e-18, No Iterations 1
+[0] first 1((-1.29965 -0 -0))
+Time = 160
+
+DICPCG:  Solving for Ux, Initial residual = 0.000209213, Final residual = 1.36723e-18, No Iterations 1
+[0] first 1((-1.30066 -0 -0))
+Time = 161
+
+DICPCG:  Solving for Ux, Initial residual = 1.5017e-05, Final residual = 2.47997e-18, No Iterations 1
+[0] first 1((-1.30059 -0 -0))
+Time = 162
+
+DICPCG:  Solving for Ux, Initial residual = 0.000193507, Final residual = 6.90287e-19, No Iterations 1
+[0] first 1((-1.29965 -0 -0))
+Time = 163
+
+DICPCG:  Solving for Ux, Initial residual = 6.57817e-05, Final residual = 1.9403e-18, No Iterations 1
+[0] first 1((-1.29934 -0 -0))
+Time = 164
+
+DICPCG:  Solving for Ux, Initial residual = 0.000148514, Final residual = 9.68595e-19, No Iterations 1
+[0] first 1((-1.30006 -0 -0))
+Time = 165
+
+DICPCG:  Solving for Ux, Initial residual = 0.000118291, Final residual = 1.44525e-18, No Iterations 1
+[0] first 1((-1.30063 -0 -0))
+Time = 166
+
+DICPCG:  Solving for Ux, Initial residual = 8.68919e-05, Final residual = 1.0133e-18, No Iterations 1
+[0] first 1((-1.30021 -0 -0))
+Time = 167
+
+DICPCG:  Solving for Ux, Initial residual = 0.000140806, Final residual = 1.01442e-18, No Iterations 1
+[0] first 1((-1.29953 -0 -0))
+Time = 168
+
+DICPCG:  Solving for Ux, Initial residual = 2.22567e-05, Final residual = 1.48774e-18, No Iterations 1
+[0] first 1((-1.29963 -0 -0))
+Time = 169
+
+DICPCG:  Solving for Ux, Initial residual = 0.000135039, Final residual = 5.54091e-19, No Iterations 1
+[0] first 1((-1.30029 -0 -0))
+Time = 170
+
+DICPCG:  Solving for Ux, Initial residual = 3.52464e-05, Final residual = 1.54596e-18, No Iterations 1
+[0] first 1((-1.30045 -0 -0))
+Time = 171
+
+DICPCG:  Solving for Ux, Initial residual = 0.000107777, Final residual = 7.02435e-19, No Iterations 1
+[0] first 1((-1.29993 -0 -0))
+Time = 172
+
+DICPCG:  Solving for Ux, Initial residual = 7.47192e-05, Final residual = 1.21786e-18, No Iterations 1
+[0] first 1((-1.29957 -0 -0))
+Time = 173
+
+DICPCG:  Solving for Ux, Initial residual = 6.75631e-05, Final residual = 7.87968e-19, No Iterations 1
+[0] first 1((-1.2999 -0 -0))
+Time = 174
+
+DICPCG:  Solving for Ux, Initial residual = 9.39479e-05, Final residual = 7.25217e-19, No Iterations 1
+[0] first 1((-1.30035 -0 -0))
+Time = 175
+
+DICPCG:  Solving for Ux, Initial residual = 2.34797e-05, Final residual = 6.66145e-19, No Iterations 1
+[0] first 1((-1.30024 -0 -0))
+Time = 176
+
+DICPCG:  Solving for Ux, Initial residual = 9.3586e-05, Final residual = 5.2992e-19, No Iterations 1
+[0] first 1((-1.29979 -0 -0))
+Time = 177
+
+DICPCG:  Solving for Ux, Initial residual = 1.71431e-05, Final residual = 7.28461e-19, No Iterations 1
+[0] first 1((-1.29971 -0 -0))
+Time = 178
+
+DICPCG:  Solving for Ux, Initial residual = 7.7537e-05, Final residual = 3.97966e-19, No Iterations 1
+[0] first 1((-1.30008 -0 -0))
+Time = 179
+
+DICPCG:  Solving for Ux, Initial residual = 4.63669e-05, Final residual = 7.78959e-19, No Iterations 1
+[0] first 1((-1.3003 -0 -0))
+Time = 180
+
+DICPCG:  Solving for Ux, Initial residual = 5.15374e-05, Final residual = 4.85973e-19, No Iterations 1
+[0] first 1((-1.30006 -0 -0))
+Time = 181
+
+DICPCG:  Solving for Ux, Initial residual = 6.21745e-05, Final residual = 5.89093e-19, No Iterations 1
+[0] first 1((-1.29976 -0 -0))
+Time = 182
+
+DICPCG:  Solving for Ux, Initial residual = 2.17277e-05, Final residual = 4.90534e-19, No Iterations 1
+[0] first 1((-1.29986 -0 -0))
+Time = 183
+
+DICPCG:  Solving for Ux, Initial residual = 6.43919e-05, Final residual = 3.54286e-19, No Iterations 1
+[0] first 1((-1.30017 -0 -0))
+Time = 184
+
+DICPCG:  Solving for Ux, Initial residual = 6.76144e-06, Final residual = 9.70406e-19, No Iterations 1
+[0] first 1((-1.3002 -0 -0))
+Time = 185
+
+DICPCG:  Solving for Ux, Initial residual = 5.53137e-05, Final residual = 2.81874e-19, No Iterations 1
+[0] first 1((-1.29993 -0 -0))
+Time = 186
+
+DICPCG:  Solving for Ux, Initial residual = 2.81888e-05, Final residual = 5.17037e-19, No Iterations 1
+[0] first 1((-1.2998 -0 -0))
+Time = 187
+
+DICPCG:  Solving for Ux, Initial residual = 3.87316e-05, Final residual = 3.33572e-19, No Iterations 1
+[0] first 1((-1.29999 -0 -0))
+Time = 188
+
+DICPCG:  Solving for Ux, Initial residual = 4.07448e-05, Final residual = 3.92114e-19, No Iterations 1
+[0] first 1((-1.30018 -0 -0))
+Time = 189
+
+DICPCG:  Solving for Ux, Initial residual = 1.87107e-05, Final residual = 3.4328e-19, No Iterations 1
+[0] first 1((-1.30009 -0 -0))
+Time = 190
+
+DICPCG:  Solving for Ux, Initial residual = 4.39969e-05, Final residual = 2.66275e-19, No Iterations 1
+[0] first 1((-1.29988 -0 -0))
+Time = 191
+
+DICPCG:  Solving for Ux, Initial residual = 1.12244e-06, Final residual = 2.99512e-19, No Iterations 1
+[0] first 1((-1.29988 -0 -0))
+Time = 192
+
+DICPCG:  Solving for Ux, Initial residual = 3.91561e-05, Final residual = 1.5574e-19, No Iterations 1
+[0] first 1((-1.30007 -0 -0))
+Time = 193
+
+DICPCG:  Solving for Ux, Initial residual = 1.66677e-05, Final residual = 3.25196e-19, No Iterations 1
+[0] first 1((-1.30015 -0 -0))
+Time = 194
+
+DICPCG:  Solving for Ux, Initial residual = 2.87286e-05, Final residual = 2.11389e-19, No Iterations 1
+[0] first 1((-1.30001 -0 -0))
+Time = 195
+
+DICPCG:  Solving for Ux, Initial residual = 2.64293e-05, Final residual = 2.67473e-19, No Iterations 1
+[0] first 1((-1.29988 -0 -0))
+Time = 196
+
+DICPCG:  Solving for Ux, Initial residual = 1.54007e-05, Final residual = 2.00316e-19, No Iterations 1
+[0] first 1((-1.29995 -0 -0))
+Time = 197
+
+DICPCG:  Solving for Ux, Initial residual = 2.98391e-05, Final residual = 1.92281e-19, No Iterations 1
+[0] first 1((-1.3001 -0 -0))
+Time = 198
+
+DICPCG:  Solving for Ux, Initial residual = 1.98493e-06, Final residual = 2.66987e-19, No Iterations 1
+[0] first 1((-1.30009 -0 -0))
+Time = 199
+
+DICPCG:  Solving for Ux, Initial residual = 2.7531e-05, Final residual = 1.15182e-19, No Iterations 1
+[0] first 1((-1.29996 -0 -0))
+Time = 200
+
+DICPCG:  Solving for Ux, Initial residual = 9.49418e-06, Final residual = 2.67643e-19, No Iterations 1
+[0] first 1((-1.29991 -0 -0))
+Time = 201
+
+DICPCG:  Solving for Ux, Initial residual = 2.10743e-05, Final residual = 1.28827e-19, No Iterations 1
+[0] first 1((-1.30001 -0 -0))
+Time = 202
+
+DICPCG:  Solving for Ux, Initial residual = 1.69358e-05, Final residual = 1.76137e-19, No Iterations 1
+[0] first 1((-1.30009 -0 -0))
+Time = 203
+
+DICPCG:  Solving for Ux, Initial residual = 1.22757e-05, Final residual = 1.5115e-19, No Iterations 1
+[0] first 1((-1.30003 -0 -0))
+Time = 204
+
+DICPCG:  Solving for Ux, Initial residual = 2.00863e-05, Final residual = 1.49181e-19, No Iterations 1
+[0] first 1((-1.29994 -0 -0))
+Time = 205
+
+DICPCG:  Solving for Ux, Initial residual = 3.06294e-06, Final residual = 1.28514e-19, No Iterations 1
+[0] first 1((-1.29995 -0 -0))
+Time = 206
+
+DICPCG:  Solving for Ux, Initial residual = 1.92222e-05, Final residual = 7.6507e-20, No Iterations 1
+[0] first 1((-1.30004 -0 -0))
+Time = 207
+
+DICPCG:  Solving for Ux, Initial residual = 5.11244e-06, Final residual = 1.3837e-19, No Iterations 1
+[0] first 1((-1.30007 -0 -0))
+Time = 208
+
+DICPCG:  Solving for Ux, Initial residual = 1.53051e-05, Final residual = 8.66543e-20, No Iterations 1
+[0] first 1((-1.29999 -0 -0))
+Time = 209
+
+DICPCG:  Solving for Ux, Initial residual = 1.07037e-05, Final residual = 1.12992e-19, No Iterations 1
+[0] first 1((-1.29994 -0 -0))
+Time = 210
+
+DICPCG:  Solving for Ux, Initial residual = 9.55466e-06, Final residual = 1.10447e-19, No Iterations 1
+[0] first 1((-1.29999 -0 -0))
+Time = 211
+
+DICPCG:  Solving for Ux, Initial residual = 1.34121e-05, Final residual = 9.1339e-20, No Iterations 1
+[0] first 1((-1.30005 -0 -0))
+Time = 212
+
+DICPCG:  Solving for Ux, Initial residual = 3.27202e-06, Final residual = 1.34319e-19, No Iterations 1
+[0] first 1((-1.30004 -0 -0))
+Time = 213
+
+DICPCG:  Solving for Ux, Initial residual = 1.33266e-05, Final residual = 7.05215e-20, No Iterations 1
+[0] first 1((-1.29997 -0 -0))
+Time = 214
+
+DICPCG:  Solving for Ux, Initial residual = 2.50604e-06, Final residual = 1.16593e-19, No Iterations 1
+[0] first 1((-1.29996 -0 -0))
+Time = 215
+
+DICPCG:  Solving for Ux, Initial residual = 1.10159e-05, Final residual = 5.65682e-20, No Iterations 1
+[0] first 1((-1.30002 -0 -0))
+Time = 216
+
+DICPCG:  Solving for Ux, Initial residual = 6.65183e-06, Final residual = 1.14874e-19, No Iterations 1
+[0] first 1((-1.30005 -0 -0))
+Time = 217
+
+DICPCG:  Solving for Ux, Initial residual = 7.29739e-06, Final residual = 6.5364e-20, No Iterations 1
+[0] first 1((-1.30001 -0 -0))
+Time = 218
+
+DICPCG:  Solving for Ux, Initial residual = 8.87948e-06, Final residual = 7.8668e-20, No Iterations 1
+[0] first 1((-1.29997 -0 -0))
+Time = 219
+
+DICPCG:  Solving for Ux, Initial residual = 3.04509e-06, Final residual = 8.49923e-20, No Iterations 1
+[0] first 1((-1.29998 -0 -0))
+Time = 220
+
+DICPCG:  Solving for Ux, Initial residual = 9.17402e-06, Final residual = 4.65447e-20, No Iterations 1
+[0] first 1((-1.30003 -0 -0))
+Time = 221
+
+DICPCG:  Solving for Ux, Initial residual = 1.00866e-06, Final residual = 9.02961e-20, No Iterations 1
+[0] first 1((-1.30003 -0 -0))
+Time = 222
+
+DICPCG:  Solving for Ux, Initial residual = 7.86281e-06, Final residual = 3.41003e-20, No Iterations 1
+[0] first 1((-1.3 -0 -0))
+Time = 223
+
+DICPCG:  Solving for Ux, Initial residual = 4.04915e-06, Final residual = 7.15811e-20, No Iterations 1
+[0] first 1((-1.29998 -0 -0))
+Time = 224
+
+DICPCG:  Solving for Ux, Initial residual = 5.48838e-06, Final residual = 4.3363e-20, No Iterations 1
+[0] first 1((-1.3 -0 -0))
+Time = 225
+
+DICPCG:  Solving for Ux, Initial residual = 5.82342e-06, Final residual = 5.8827e-20, No Iterations 1
+[0] first 1((-1.30003 -0 -0))
+Time = 226
+
+DICPCG:  Solving for Ux, Initial residual = 2.63196e-06, Final residual = 5.10776e-20, No Iterations 1
+[0] first 1((-1.30002 -0 -0))
+Time = 227
+
+DICPCG:  Solving for Ux, Initial residual = 6.27077e-06, Final residual = 3.71986e-20, No Iterations 1
+[0] first 1((-1.29999 -0 -0))
+Time = 228
+
+DICPCG:  Solving for Ux, Initial residual = 1.91674e-07, Final residual = 1.91674e-07, No Iterations 0
+[0] first 1((-1.29983 -0 -0))
+Time = 229
+
+DICPCG:  Solving for Ux, Initial residual = 3.97441e-07, Final residual = 3.97441e-07, No Iterations 0
+[0] first 1((-1.29979 -0 -0))
+Time = 230
+
+DICPCG:  Solving for Ux, Initial residual = 3.64742e-07, Final residual = 3.64742e-07, No Iterations 0
+[0] first 1((-1.29986 -0 -0))
+Time = 231
+
+DICPCG:  Solving for Ux, Initial residual = 2.28203e-07, Final residual = 2.28203e-07, No Iterations 0
+[0] first 1((-1.29992 -0 -0))
+Time = 232
+
+DICPCG:  Solving for Ux, Initial residual = 1.93207e-07, Final residual = 1.93207e-07, No Iterations 0
+[0] first 1((-1.2999 -0 -0))
+Time = 233
+
+DICPCG:  Solving for Ux, Initial residual = 2.61131e-07, Final residual = 2.61131e-07, No Iterations 0
+[0] first 1((-1.29985 -0 -0))
+Time = 234
+
+DICPCG:  Solving for Ux, Initial residual = 3.09299e-07, Final residual = 3.09299e-07, No Iterations 0
+[0] first 1((-1.29985 -0 -0))
+Time = 235
+
+DICPCG:  Solving for Ux, Initial residual = 2.87812e-07, Final residual = 2.87812e-07, No Iterations 0
+[0] first 1((-1.29988 -0 -0))
+Time = 236
+
+DICPCG:  Solving for Ux, Initial residual = 2.50316e-07, Final residual = 2.50316e-07, No Iterations 0
+[0] first 1((-1.29989 -0 -0))
+Time = 237
+
+DICPCG:  Solving for Ux, Initial residual = 2.4821e-07, Final residual = 2.4821e-07, No Iterations 0
+[0] first 1((-1.29988 -0 -0))
+Time = 238
+
+DICPCG:  Solving for Ux, Initial residual = 2.69865e-07, Final residual = 2.69865e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 239
+
+DICPCG:  Solving for Ux, Initial residual = 2.79791e-07, Final residual = 2.79791e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 240
+
+DICPCG:  Solving for Ux, Initial residual = 2.70768e-07, Final residual = 2.70768e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 241
+
+DICPCG:  Solving for Ux, Initial residual = 2.61203e-07, Final residual = 2.61203e-07, No Iterations 0
+[0] first 1((-1.29988 -0 -0))
+Time = 242
+
+DICPCG:  Solving for Ux, Initial residual = 2.62791e-07, Final residual = 2.62791e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 243
+
+DICPCG:  Solving for Ux, Initial residual = 2.69165e-07, Final residual = 2.69165e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 244
+
+DICPCG:  Solving for Ux, Initial residual = 2.70762e-07, Final residual = 2.70762e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 245
+
+DICPCG:  Solving for Ux, Initial residual = 2.67576e-07, Final residual = 2.67576e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 246
+
+DICPCG:  Solving for Ux, Initial residual = 2.65344e-07, Final residual = 2.65344e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 247
+
+DICPCG:  Solving for Ux, Initial residual = 2.66363e-07, Final residual = 2.66363e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 248
+
+DICPCG:  Solving for Ux, Initial residual = 2.68109e-07, Final residual = 2.68109e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 249
+
+DICPCG:  Solving for Ux, Initial residual = 2.68197e-07, Final residual = 2.68197e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+Time = 250
+
+DICPCG:  Solving for Ux, Initial residual = 2.67184e-07, Final residual = 2.67184e-07, No Iterations 0
+[0] first 1((-1.29987 -0 -0))
+End
+
+Finalising parallel run

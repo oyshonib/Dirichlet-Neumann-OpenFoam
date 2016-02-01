@@ -1,0 +1,24 @@
+fvMesh/fvPatches/basic/dirichlet/dirichletFvPatch.C
+
+dirichlet/dirichletFvPatchFields.C
+dirichlet/dirichlet/dirichletPolyPatch.C
+
+
+
+neumann/neumannFvPatchFields.C
+neumann/neumann/neumannPolyPatch.C
+
+
+//dynamicLibrary/dlLibraryTable/dlLibraryTable.C
+//dynamicLibrary/dynamicCode/dynamicCode.C
+//dynamicLibrary/dynamicCode/dynamicCodeContext.C
+//dynamicLibrary/codedBase/codedBase.C
+
+codedMixed/codedMixedFvPatchField.C  
+
+
+
+
+
+
+LIB = $(FOAM_USER_LIBBIN)/libMyBCs

@@ -1,0 +1,5 @@
+include fvMesh/fvPatches/basic/dirichlet/dirichletFvPatch.dep
+include dirichlet/dirichletFvPatchFields.dep
+include dirichlet/dirichlet/dirichletPolyPatch.dep
+include neumann/neumannFvPatchFields.dep
+include neumann/neumann/neumannPolyPatch.dep

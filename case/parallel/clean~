@@ -1,0 +1,1 @@
+rm -rf processor*/{1..20} {1..20} proce*/fvp

@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+dirichletFvPatch.o\
+dirichletFvPatchFields.o\
+dirichletPolyPatch.o\
+neumannFvPatchFields.o\
+neumannPolyPatch.o

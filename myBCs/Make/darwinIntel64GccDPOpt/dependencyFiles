@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+fvMesh/fvPatches/basic/dirichlet/dirichletFvPatch.dep\
+dirichlet/dirichletFvPatchFields.dep\
+dirichlet/dirichlet/dirichletPolyPatch.dep\
+neumann/neumannFvPatchFields.dep\
+neumann/neumann/neumannPolyPatch.dep
