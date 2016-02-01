@@ -1,0 +1,13 @@
+include $(RULES)/mplib$(WM_MPLIB)
+
+EXE_INC = \
+    $(PFLAGS) $(PINC) \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/Pstream/mpi/lnInclude
+
+
+
+EXE_LIBS = \
+	 $(PLIBS) \
+	 -lfiniteVolume \
+         -llduSolvers  
